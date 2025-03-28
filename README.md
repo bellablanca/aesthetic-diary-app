@@ -15,9 +15,6 @@ A cute, minimalist desktop diary built with Python and Tkinter.
 ![image](https://github.com/user-attachments/assets/71239507-a702-4018-a5f2-0fa07d42c0f2)
 
 
-
-
-
 ## How to Run
 TODO:
 
