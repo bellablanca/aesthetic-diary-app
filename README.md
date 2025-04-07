@@ -13,6 +13,7 @@ A cute, minimalist desktop diary built with Python and Tkinter.
 ![cursive text](https://github.com/user-attachments/assets/e3be48dd-5d41-46a4-804f-e4a3fe65e3e1)
 ![entries](https://github.com/user-attachments/assets/a4bc60eb-26b7-46ec-8e82-a8d5be03a671)
 ![gallery](https://github.com/user-attachments/assets/4bd9a1d5-3783-4bfc-b187-14c22071a6af)
+![icon](https://github.com/user-attachments/assets/34b77bea-4b12-4ee6-84a3-65860d901340)
 
 
 ## How to Run
